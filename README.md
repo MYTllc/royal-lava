@@ -2,9 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/royal-lava?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/royal-lava)
 [![NPM Downloads](https://img.shields.io/npm/dt/royal-lava?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/royal-lava)
-[![Discord Support](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?color=7289DA&label=Support&logo=discord&logoColor=white&style=for-the-badge)](YOUR_DISCORD_INVITE_LINK)
-[![Node.js Version](https://img.shields.io/node/v/royal-lava?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![License](https://img.shields.io/npm/l/royal-lava?style=for-the-badge)](LICENSE)
+[![Discord Support](https://cdn.discordapp.com/avatars/1348283470371094619/6fa8ec5e19ce5fbcc65b690a3a42e24d.webp?size=4096)](https://discord.gg/royal0)
 
 **royal-lava** is an advanced, feature-rich, and reliable [Lavalink](https://github.com/lavalink-devs/Lavalink) v4 client for Node.js, designed for building sophisticated Discord music bots. It focuses on stability, multi-node management, session resumption, and a powerful queue system.
 
