@@ -16,7 +16,7 @@
       "client",
       "multi-node"
     ],
-    "author": "Your Name",
+    "author": "ItsZoro",
     "license": "ISC",
     "dependencies": {
       "ws": "^8.17.0"
