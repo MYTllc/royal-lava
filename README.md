@@ -1,6 +1,4 @@
-# royal-lava
-
-# royal-lava <img src="https://raw.githubusercontent.com/lavalink-devs/Lavalink/master/Lavalink.png" height="40" align="right" alt="Lavalink Logo"/>
+# royal-lava <img src="https://cdn.discordapp.com/avatars/1348283470371094619/6fa8ec5e19ce5fbcc65b690a3a42e24d.webp?size=4096" height="40" align="right" alt="Lavalink Logo"/>
 
 [![NPM Version](https://img.shields.io/npm/v/royal-lava?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/royal-lava)
 [![NPM Downloads](https://img.shields.io/npm/dt/royal-lava?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/royal-lava)
@@ -291,7 +289,8 @@ client.on(Events.InteractionCreate, async interaction => {
 client.login('YOUR_BOT_TOKEN'); // Replace with your Discord Bot Token
 ```
 
-🎉 Events
+# 🎉 Events
+```javascript
 royal-lava emits various events via the Manager instance. Use Constants.CLIENT_EVENT_TYPES for event names:
 
 Node Events:
@@ -333,13 +332,13 @@ QUEUE_END (player): Emitted when the queue finishes playing and no loop mode is 
 Other Events:
 
 DEBUG (message, ...optionalArgs): Emitted for internal debugging information.
+```
+# 🤝 Support
 
-##🤝 Support
+- Found a Bug? Please report issues on GitHub.
 
-Found a Bug? Please report issues on GitHub.
-
-Need Help? Join our Discord Support Server.
-
+- Need Help? Join our Discord Support Server.
+  - https://discord.gg/royal0
 <p align="center">
 <a href="https://discord.gg/royal0">
 <img src="https://cdn.discordapp.com/icons/1306308516713074828/f59eaa8b3660fa73db995041bc73d187.webp?size=512" alt="Discord Support Server"/>
