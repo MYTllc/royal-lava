@@ -1,0 +1,35 @@
+{
+    "name": "advanced-lavalink-v4",
+    "version": "1.0.0",
+    "description": "An advanced Lavalink v4 client library with multi-node, reconnect, session resumption, and queue support.",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "lavalink",
+      "v4",
+      "music",
+      "discord",
+      "audio",
+      "client",
+      "multi-node"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+      "ws": "^8.17.0"
+    },
+    "engines": {
+      "node": ">=18.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yourusername/advanced-lavalink-v4.git"
+    },
+    "bugs": {
+      "url": "https://github.com/yourusername/advanced-lavalink-v4/issues"
+    },
+    "homepage": "https://github.com/yourusername/advanced-lavalink-v4#readme"
+  }
