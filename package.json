@@ -1,5 +1,5 @@
 {
-    "name": "advanced-lavalink-v4",
+    "name": "royal-lava",
     "version": "1.0.0",
     "description": "An advanced Lavalink v4 client library with multi-node, reconnect, session resumption, and queue support.",
     "main": "index.js",
@@ -26,10 +26,10 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/yourusername/advanced-lavalink-v4.git"
+      "url": "git+https://github.com/MYTllc/royal-lava.git"
     },
     "bugs": {
-      "url": "https://github.com/yourusername/advanced-lavalink-v4/issues"
+      "url": "https://github.com/MYTllc/royal-lava/issues"
     },
-    "homepage": "https://github.com/yourusername/advanced-lavalink-v4#readme"
+    "homepage": "https://github.com/MYTllc/royal-lava#readme"
   }
